@@ -93,3 +93,11 @@ I'm work on my own webpack starterkit with sass and ES6
 [repo](https://github.com/paolaguarasci/webpackStarter)
 
 ![img](img/day015.png)
+
+### Day 016
+
+I'm work on my portfolio, based on webpack starterkit, and i find a issue with fontawesome. So i try to solve this problem and pull request to original repo of npm package. I hope it's merge
+[myMod](https://github.com/paolaguarasci/font-awesome-loader/tree/wp4-fa5) 🤞
+
+👏👏👏👏 **This screen about my first contrib on learn repo** 👏👏👏👏
+![img](img/day016.png)
