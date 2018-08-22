@@ -100,4 +100,17 @@ I'm work on my portfolio, based on webpack starterkit, and i find a issue with f
 [myMod](https://github.com/paolaguarasci/font-awesome-loader/tree/wp4-fa5) 🤞
 
 👏👏👏👏 **This screen about my first contrib on learn repo** 👏👏👏👏
+
 ![img](img/day016.png)
+
+### Day 017
+
+I'm find a better way to work with wp4 and fa5. This is the medium [article](https://medium.com/@paolaguarasci/how-use-font-awesome-5-scss-and-web-pack-4-904048eec0a1) that I wrote for explane how to work.
+
+![img](img/day017.png)
+
+### Day 018
+
+I'm work on my portfolio, following [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
+
+![img](img/day018.png)
