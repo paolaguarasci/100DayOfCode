@@ -114,3 +114,10 @@ I'm find a better way to work with wp4 and fa5. This is the medium [article](htt
 I'm work on my portfolio, following [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
 
 ![img](img/day018.png)
+
+### Day 019
+
+I'm work on my portfolio, following [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU), like yesterday, but now I'm almost done and the site is online on [surge.sh](surge.sh) ---> [Link](http://hushed-skirt.surge.sh/).
+I'm correct some issue with mobile but a few still exist.
+
+![img](img/day019.png)
