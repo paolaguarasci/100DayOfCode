@@ -121,3 +121,9 @@ I'm work on my portfolio, following [Traversy Media](https://www.youtube.com/pla
 I'm correct some issue with mobile but a few still exist.
 
 ![img](img/day019.png)
+
+### Day 020
+
+I'm finished my portfolio. Look awesome!
+I switched from surge.sh to [firebase](https://myawesomeportfolio-f8ff8.firebaseapp.com) because its have https and password protetion for free.
+![img](img/day020.png)
