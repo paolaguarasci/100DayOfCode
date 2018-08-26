@@ -127,3 +127,15 @@ I'm correct some issue with mobile but a few still exist.
 I'm finished my portfolio. Look awesome!
 I switched from surge.sh to [firebase](https://myawesomeportfolio-f8ff8.firebaseapp.com) because its have https and password protetion for free.
 ![img](img/day020.png)
+
+### Day 020
+
+[i'm done this stuff yesterday but I forget to update repo and Twitter]
+I'm on CSS Grid (Wes Bos) - I had started this yesterday in spare time, now I'm working on topic 07-12
+![img](img/day021.png)
+
+### Day 020
+
+I'm still on CSS Grid (WesBos) - Topic 13 - 18
+
+![img](img/day022.png)
