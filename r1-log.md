@@ -128,14 +128,19 @@ I'm finished my portfolio. Look awesome!
 I switched from surge.sh to [firebase](https://myawesomeportfolio-f8ff8.firebaseapp.com) because its have https and password protetion for free.
 ![img](img/day020.png)
 
-### Day 020
+### Day 021
 
 [i'm done this stuff yesterday but I forget to update repo and Twitter]
 I'm on CSS Grid (Wes Bos) - I had started this yesterday in spare time, now I'm working on topic 07-12
 ![img](img/day021.png)
 
-### Day 020
+### Day 022
 
 I'm still on CSS Grid (WesBos) - Topic 13 - 18
 
 ![img](img/day022.png)
+
+### Day 023
+
+Two CSSGRID challenges. The first (topic 19) quite easy and I did it all by myself, all right. The second (topic 20) a bit 'more complex: it involves other knowledge of CSS and a bit' of JS, I made it almost entirely alone, except for that part of CSS concerning the overlay ... All day to try to figure out how to create a two-div overlay that does not break the layout!
+![img](img/day023.png)
