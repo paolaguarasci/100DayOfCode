@@ -144,3 +144,22 @@ I'm still on CSS Grid (WesBos) - Topic 13 - 18
 
 Two CSSGRID challenges. The first (topic 19) quite easy and I did it all by myself, all right. The second (topic 20) a bit 'more complex: it involves other knowledge of CSS and a bit' of JS, I made it almost entirely alone, except for that part of CSS concerning the overlay ... All day to try to figure out how to create a two-div overlay that does not break the layout!
 ![img](img/day023.png)
+
+### Day 024
+
+5 block of 45min + 15min
+
+- restart with Gulp.JS
+  - critical path
+  - purifycss
+  - imagemin
+  - uglify
+  - dep e mon manage
+    - webpak stream
+  - postcss
+
+2 block of 45min + 15min to cssgrid
+
+- 21 css vs flex [flip, autoflow column, flex 1, controllo pos singolo elemento, unknow dim or num of elements]
+
+![img](img/day024.png)
