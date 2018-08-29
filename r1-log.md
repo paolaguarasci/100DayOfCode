@@ -163,3 +163,9 @@ Two CSSGRID challenges. The first (topic 19) quite easy and I did it all by myse
 - 21 css vs flex [flip, autoflow column, flex 1, controllo pos singolo elemento, unknow dim or num of elements]
 
 ![img](img/day024.png)
+
+### Day025
+
+I'm cloned CODEPEN! (the style...!); In the picture you can see my attempt. Disordered code, missing some details and different approach... but all in all I'm happy! 🔥
+
+![img](img/day025.png)
