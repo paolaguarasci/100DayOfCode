@@ -169,3 +169,9 @@ Two CSSGRID challenges. The first (topic 19) quite easy and I did it all by myse
 I'm cloned CODEPEN! (the style...!); In the picture you can see my attempt. Disordered code, missing some details and different approach... but all in all I'm happy! 🔥
 
 ![img](img/day025.png)
+
+### Day 026
+
+@wesbos took me away all morning, a very long lesson to try alone: a complete and responsive layout! In the video, he takes just under 30min. I have spent all morning. But I like my result, even #js , and the code I wrote is much cleaner.
+
+![img](img/day026.png)
