@@ -175,3 +175,8 @@ I'm cloned CODEPEN! (the style...!); In the picture you can see my attempt. Diso
 @wesbos took me away all morning, a very long lesson to try alone: a complete and responsive layout! In the video, he takes just under 30min. I have spent all morning. But I like my result, even #js , and the code I wrote is much cleaner.
 
 ![img](img/day026.png)
+
+### Day 027
+
+I'm finish CSSGrid Course and I'm planned the nest 13 days.
+![img](img/day027.png)
