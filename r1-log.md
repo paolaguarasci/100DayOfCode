@@ -185,3 +185,6 @@ I'm finish CSSGrid Course and I'm planned the nest 13 days.
 ### Day 028
 
 I worked to ajax request: both vanilla js and fetch api, I re-lerned so much: how to send request, how to parse json, how to dialogue with php. [No-screen for now...]
+
+### Day 029-030 
+I work on my WP portfolio, I hate worspress 😤
