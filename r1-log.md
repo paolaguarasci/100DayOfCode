@@ -182,10 +182,13 @@ I'm finish CSSGrid Course and I'm planned the nest 13 days.
 
 
 ### Day 028 - 029 [01-02/09/2018]
-I worked to ajax request: both vanilla js and fetch api, I re-lerned so much: how to send request, how to parse json, how to dialogue with php.
+I worked to ajax request: both vanilla js and fetch api, I re-learned so much: how to send aa request, how to parse json, how to dialogue with php.
 
 ### Day 030 - 031 - 032 [03-05/09/2018]
-I work on my WP portfolio, I hate worspress 😤
+I work on my WP portfolio, I hate WordPress 😤
 
 ### Day 033 [06/09/2018]
 today is a unity test day 🎉 and i founded i love it 😍
+
+### Day 034 [07/09/2018] 
+Today I’m learned what are Continuous Integration and how config CircleCI 😎
