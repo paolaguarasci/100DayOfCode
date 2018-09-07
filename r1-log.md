@@ -176,20 +176,16 @@ I'm cloned CODEPEN! (the style...!); In the picture you can see my attempt. Diso
 
 ![img](img/day026.png)
 
-### Day 027
-
+### Day 027 - [31/08/2018]
 I'm finish CSSGrid Course and I'm planned the nest 13 days.
 ![img](img/day027.png)
 
 
-### Day 028
+### Day 028 - 029 [01-02/09/2018]
+I worked to ajax request: both vanilla js and fetch api, I re-lerned so much: how to send request, how to parse json, how to dialogue with php.
 
-I worked to ajax request: both vanilla js and fetch api, I re-lerned so much: how to send request, how to parse json, how to dialogue with php. [No-screen for now...]
-
-### Day 029-030 
+### Day 030 - 031 - 032 [03-05/09/2018]
 I work on my WP portfolio, I hate worspress 😤
 
-### Day 31
-
-today is a unity test day 🎉
-and i founded i love it 😍
+### Day 033 [06/09/2018]
+today is a unity test day 🎉 and i founded i love it 😍
