@@ -190,5 +190,12 @@ I work on my WP portfolio, I hate WordPress 😤
 ### Day 033 [06/09/2018]
 today is a unity test day 🎉 and i founded i love it 😍
 
-### Day 034 [07/09/2018] 
+### Day 034 [07/09/2018]
 Today I’m learned what are Continuous Integration and how config CircleCI 😎
+
+### Day 035 [08/09/2018]
+Blockchain day!!! Intro and some tutorial teoretical stuff!!
+
+### Day 036 [09/10/2018]
+Cloning ls command line tools in Node.js... looks pretty good! Take a look --> [repo](https://github.com/paolaguarasci/cmdClone) | And now I'm following this [roadmap](https://github.com/kamranahmedse/developer-roadmap)
+![img](img/day036.png)
