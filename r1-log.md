@@ -203,3 +203,7 @@ Cloning ls command line tools in Node.js... looks pretty good! Take a look --> [
 ### Day 037 [10/10/2018]
 Another clone of one tool: copy! Do its job pretty good! Take a look --> [repo](https://github.com/paolaguarasci/cmdClone)
 ![img](img/day037.png)
+
+### Day 038 [11/10/2018]
+I have spent all day working with Reddit API, so I had learned a little bit of OAuth2 dance and how to perform a request and handle resp.
+![img](img/day038.png)
