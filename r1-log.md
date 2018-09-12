@@ -207,3 +207,7 @@ Another clone of one tool: copy! Do its job pretty good! Take a look --> [repo](
 ### Day 038 [11/10/2018]
 I have spent all day working with Reddit API, so I had learned a little bit of OAuth2 dance and how to perform a request and handle resp.
 ![img](img/day038.png)
+
+### Day 039 [12/10/2018]
+I'm working on my path: today it's time to fetch and save (locally, for download) the latest 25 posts on /r/programmer 👾
+![img](img/day039.png)
