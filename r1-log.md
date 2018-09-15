@@ -211,3 +211,8 @@ I have spent all day working with Reddit API, so I had learned a little bit of O
 ### Day 039 [12/10/2018]
 I'm working on my path: today it's time to fetch and save (locally, for download) the latest 25 posts on /r/programmer 👾
 ![img](img/day039.png)
+
+### Day 040-42 [13-15/10/2018]
+I'm a little bit stressed in this days and I forget to update this repo, **but I'm worked every day** and I twitted my daily progress. So... What I have does at this period? I have cloned the **tree -j** command and created the inverse script, which creates the structure from the json. Today, however, I created a script in Node.js for searching files.
+![img](img/day042a.png)
+![img](img/day042b.png)
