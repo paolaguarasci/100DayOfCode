@@ -216,3 +216,7 @@ I'm working on my path: today it's time to fetch and save (locally, for download
 I'm a little bit stressed in this days and I forget to update this repo, **but I'm worked every day** and I twitted my daily progress. So... What I have does at this period? I have cloned the **tree -j** command and created the inverse script, which creates the structure from the json. Today, however, I created a script in Node.js for searching files.
 ![img](img/day042a.png)
 ![img](img/day042b.png)
+
+### Day 043 [16/10/2018]
+
+bad day (I'm sick). I have done a little downloader for the images. work in the shell inserting the link of the page that contains the image of your choice
