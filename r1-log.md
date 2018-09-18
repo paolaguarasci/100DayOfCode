@@ -196,27 +196,34 @@ Today I’m learned what are Continuous Integration and how config CircleCI 😎
 ### Day 035 [08/09/2018]
 Blockchain day!!! Intro and some tutorial teoretical stuff!!
 
-### Day 036 [09/10/2018]
+### Day 036 [09/09/2018]
 Cloning ls command line tools in Node.js... looks pretty good! Take a look --> [repo](https://github.com/paolaguarasci/cmdClone) | And now I'm following this [roadmap](https://github.com/kamranahmedse/developer-roadmap)
 ![img](img/day036.png)
 
-### Day 037 [10/10/2018]
+### Day 037 [10/09/2018]
 Another clone of one tool: copy! Do its job pretty good! Take a look --> [repo](https://github.com/paolaguarasci/cmdClone)
 ![img](img/day037.png)
 
-### Day 038 [11/10/2018]
+### Day 038 [11/09/2018]
 I have spent all day working with Reddit API, so I had learned a little bit of OAuth2 dance and how to perform a request and handle resp.
 ![img](img/day038.png)
 
-### Day 039 [12/10/2018]
+### Day 039 [12/09/2018]
 I'm working on my path: today it's time to fetch and save (locally, for download) the latest 25 posts on /r/programmer 👾
 ![img](img/day039.png)
 
-### Day 040-42 [13-15/10/2018]
+### Day 040-42 [13-15/09/2018]
 I'm a little bit stressed in this days and I forget to update this repo, **but I'm worked every day** and I twitted my daily progress. So... What I have does at this period? I have cloned the **tree -j** command and created the inverse script, which creates the structure from the json. Today, however, I created a script in Node.js for searching files.
 ![img](img/day042a.png)
 ![img](img/day042b.png)
 
-### Day 043 [16/10/2018]
+### Day 043 [16/09/2018]
 
 bad day (I'm sick). I have done a little downloader for the images. work in the shell inserting the link of the page that contains the image of your choice
+
+### Day 044-045 [17-18/09/2018]
+
+I've started two projects: first, finished at 50%, the second is almost done. They are a pdf modifier and an automated mail sender. They are the repos:
+[](https://github.com/paolaguarasci/work-with-pdf)
+[](https://github.com/paolaguarasci/email-reminder)
+![img](img/day045.png)
