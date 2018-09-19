@@ -227,3 +227,9 @@ I've started two projects: first, finished at 50%, the second is almost done. Th
 [](https://github.com/paolaguarasci/work-with-pdf)
 [](https://github.com/paolaguarasci/email-reminder)
 ![img](img/day045.png)
+
+### Day 046 [19/09/2018]
+
+My first npm package is out! Obviously, it's filled with bugs of all kind, but I'm happy!
+Link: [npm](https://www.npmjs.com/package/tree2json)
+![img](img/day046.png)
