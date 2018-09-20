@@ -233,3 +233,8 @@ I've started two projects: first, finished at 50%, the second is almost done. Th
 My first npm package is out! Obviously, it's filled with bugs of all kind, but I'm happy!
 Link: [npm](https://www.npmjs.com/package/tree2json)
 ![img](img/day046.png)
+
+### Day 047 [12/09/2018]
+
+It's time for my to contrib on an opensource project 🤓
+I spent much of my time today to look around for some project no much obscure. 
