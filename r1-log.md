@@ -250,3 +250,9 @@ OOP in JS: Object Oriented Programming in Javascript. Now I know about objects, 
 ### Day 050 [23/09/2018]
 I'm worked with flow control: async/await and promises. I'm excited about this side of JS, this dark side of JS. 😎
 ![img](img/day050.jpg)
+=======
+### Day 047 [12/09/2018]
+
+It's time for my to contrib on an opensource project 🤓
+I spent much of my time today to look around for some project no much obscure.
+>>>>>>> 76bbfc5742707913611a3cb7d1697d1a2d8c9b50
