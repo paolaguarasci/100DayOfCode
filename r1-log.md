@@ -233,3 +233,20 @@ I've started two projects: first, finished at 50%, the second is almost done. Th
 My first npm package is out! Obviously, it's filled with bugs of all kind, but I'm happy!
 Link: [npm](https://www.npmjs.com/package/tree2json)
 ![img](img/day046.png)
+
+### Day 047 [20/09/2018]
+It's time for my to contrib on an opensource project 🤓
+I spent much of my time today to look around for some project no much obscure.
+![img](img/day047.png)
+
+### Day 048 [21/09/2018]
+A little step in my own big project: a console replica in the browser. I learned how to virtualize code and execute unsafe script in my app.
+![img](img/day048.png)
+
+### Day 049 [22/09/2018]
+OOP in JS: Object Oriented Programming in Javascript. Now I know about objects, value types, reference types, how to make a literal object, how to create an object with the constructor and with the factory function. The behaviour is almost like all other languages that support OOP, like C++ ma JS doesn't have the class, in a strict sense, but it uses prototype design.
+![img](img/day049.jpg)
+
+### Day 050 [23/09/2018]
+I'm worked with flow control: async/await and promises. I'm excited about this side of JS, this dark side of JS. 😎
+![img](img/day050.jpg)
