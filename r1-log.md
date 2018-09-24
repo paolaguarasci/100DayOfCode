@@ -251,3 +251,5 @@ OOP in JS: Object Oriented Programming in Javascript. Now I know about objects, 
 I'm worked with flow control: async/await and promises. I'm excited about this side of JS, this dark side of JS. 😎
 ![img](img/day050.jpg)
 
+### Day 051 [24/09/2018]
+I'm worked on try, catch, throw and other way to handle error.
