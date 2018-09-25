@@ -253,3 +253,6 @@ I'm worked with flow control: async/await and promises. I'm excited about this s
 
 ### Day 051 [24/09/2018]
 I'm worked on try, catch, throw and other way to handle error.
+
+### Day 052 [25/09/2018]
+Today a little overview of design pattern (constructor pattern, model pattern, object creational pattern)
