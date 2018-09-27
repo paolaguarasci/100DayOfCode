@@ -256,3 +256,9 @@ I'm worked on try, catch, throw and other way to handle error.
 
 ### Day 052 [25/09/2018]
 Today a little overview of design pattern (constructor pattern, model pattern, object creational pattern)
+
+### Day 053 [26/09/2018]
+Jest playground
+
+### Day 054 [27/09/2018]
+Intro in DB: a few SQL syntax.
