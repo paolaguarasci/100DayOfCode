@@ -245,10 +245,12 @@ A little step in my own big project: a console replica in the browser. I learned
 
 ### Day 049 [22/09/2018]
 OOP in JS: Object Oriented Programming in Javascript. Now I know about objects, value types, reference types, how to make a literal object, how to create an object with the constructor and with the factory function. The behaviour is almost like all other languages that support OOP, like C++ ma JS doesn't have the class, in a strict sense, but it uses prototype design.
+
 ![img](img/day049.jpg)
 
 ### Day 050 [23/09/2018]
 I'm worked with flow control: async/await and promises. I'm excited about this side of JS, this dark side of JS. 😎
+
 ![img](img/day050.jpg)
 
 ### Day 051 [24/09/2018]
@@ -262,3 +264,16 @@ Jest playground
 
 ### Day 054 [27/09/2018]
 Intro in DB: a few SQL syntax.
+
+### Day 055 [28/09/2018]
+Intro in DB: a few SQL syntax.
+
+
+### Day 056 [29/09/2018]
+I'm starting my fist blog project. the main topic are crud operation on db and user login-registration. today i'm setup db using both command line and datagrip and setup project folder.
+
+![img](img/day056.png)
+
+
+### Day 057 [30/09/2018]
+Continue with crud operation: get ok, put ok.
