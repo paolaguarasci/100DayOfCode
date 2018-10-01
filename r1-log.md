@@ -277,3 +277,7 @@ I'm starting my fist blog project. the main topic are crud operation on db and u
 
 ### Day 057 [30/09/2018]
 Continue with crud operation: get ok, put ok.
+
+### Day 058 [01/10/2018]
+I'm working on my blog project. CRUD API works but without security policy. Tomorrow I will implement that.
+![img](img/day058.png)
