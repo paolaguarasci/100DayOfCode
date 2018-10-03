@@ -281,3 +281,10 @@ Continue with crud operation: get ok, put ok.
 ### Day 058 [01/10/2018]
 I'm working on my blog project. CRUD API works but without security policy. Tomorrow I will implement that.
 ![img](img/day058.png)
+
+
+### Day 059 [02/10/2018]
+-- drop --
+
+### Day 060 [03/10/2018]
+In these days, very little time! I try to do what I can. Still on the subject of my project, I took a look at the express routing rules and middleware.
