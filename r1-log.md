@@ -288,3 +288,7 @@ I'm working on my blog project. CRUD API works but without security policy. Tomo
 
 ### Day 060 [03/10/2018]
 In these days, very little time! I try to do what I can. Still on the subject of my project, I took a look at the express routing rules and middleware.
+
+
+### Day 061 [04/10/2018]
+Still on the subject of my project, I took a look at the express routing rules and middleware and session too, today.
