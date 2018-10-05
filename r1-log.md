@@ -292,3 +292,9 @@ In these days, very little time! I try to do what I can. Still on the subject of
 
 ### Day 061 [04/10/2018]
 Still on the subject of my project, I took a look at the express routing rules and middleware and session too, today.
+
+
+### Day 062 [05/10/2018]
+The project proceeds, in small steps but proceeds. Today I created a minimal interface from which a user can log in and where a logged in user can add a post. I created the project repo and put everything on GitHub.
+![img](img/day02.png)
+![img](img/day02_.png)
