@@ -296,5 +296,6 @@ Still on the subject of my project, I took a look at the express routing rules a
 
 ### Day 062 [05/10/2018]
 The project proceeds, in small steps but proceeds. Today I created a minimal interface from which a user can log in and where a logged in user can add a post. I created the project repo and put everything on GitHub.
-![img](img/day02.png)
-![img](img/day02_.png)
+
+![img](img/day062.png)
+![img](img/day062_.png)
