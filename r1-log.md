@@ -299,3 +299,10 @@ The project proceeds, in small steps but proceeds. Today I created a minimal int
 
 ![img](img/day062.png)
 ![img](img/day062_.png)
+
+
+### Day 063 [06/10/2018]
+Big step forward: motore di plug-in plug-in integrato e tutte le viste fatte!!! 🔥🔥🔥
+
+### Day 064 [07/10/2018]
+Today another day ok: project "Fake Blog" finished at 90% 🔥🔥🔥 Now i need to improve security: password are send in clear on the connection.
