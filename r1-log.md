@@ -306,3 +306,6 @@ Big step forward: motore di plug-in plug-in integrato e tutte le viste fatte!!! 
 
 ### Day 064 [07/10/2018]
 Today another day ok: project "Fake Blog" finished at 90% 🔥🔥🔥 Now i need to improve security: password are send in clear on the connection.
+
+### Day 065 [08/10/2018]
+It's time for finishing: aesthetic improvements and in the user experience. Now the DB only keeps the password hashes.
