@@ -309,3 +309,9 @@ Today another day ok: project "Fake Blog" finished at 90% 🔥🔥🔥 Now i nee
 
 ### Day 065 [08/10/2018]
 It's time for finishing: aesthetic improvements and in the user experience. Now the DB only keeps the password hashes.
+
+### Day 066 [09/10/2018]
+Pause by FakeBlog: it’s started M001 at mongodb university. 
+
+
+
